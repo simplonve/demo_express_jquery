@@ -4,8 +4,8 @@
   "description": "Exemple d'application utilisant Express et Jquery",
   "author": "Rémy et Vincent",
   "dependencies": {
+    "ejs": "^2.3.3",
     "express": "4.2.x"
   },
   "license": "MIT"
 }
-  

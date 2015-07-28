@@ -1,7 +1,6 @@
 $(document).ready(function() {
-    console.log('client');
   $('#disparition').click(function() {
-    console.log('clic');
+    console.log('yo');
     $( "h1" ).hide();
   });
 });
