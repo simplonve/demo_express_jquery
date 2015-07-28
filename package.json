@@ -1,0 +1,11 @@
+{
+  "name": "Demo_Express_Jquery",
+  "version": "0.0.1",
+  "description": "Exemple d'application utilisant Express et Jquery",
+  "author": "Rémy et Vincent",
+  "dependencies": {
+    "express": "4.2.x"
+  },
+  "license": "MIT"
+}
+  
